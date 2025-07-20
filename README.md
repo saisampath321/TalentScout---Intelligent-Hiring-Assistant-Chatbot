@@ -39,6 +39,13 @@ TalentScout is a fictional recruitment agency specializing in technology placeme
     streamlit run app.py
     ```
 
+OUTPUT: screen-1
+![Screenshot_20-7-2025_19487_localhost](https://github.com/user-attachments/assets/321a1e09-3841-4678-b7b8-94166909bac2)
+
+OUTPUT: screen-2
+![Screenshot_20-7-2025_195242_localhost](https://github.com/user-attachments/assets/a9a62e33-35a1-4df9-a4c2-cfadbdcc35ff)
+
+
 ## 📂 Project Structure
 
 ```
