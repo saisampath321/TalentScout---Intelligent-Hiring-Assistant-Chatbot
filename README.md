@@ -47,6 +47,9 @@ TalentScout is a fictional recruitment agency specializing in technology placeme
 ![Screenshot_20-7-2025_195242_localhost](https://github.com/user-attachments/assets/a9a62e33-35a1-4df9-a4c2-cfadbdcc35ff)
 
 
+<img width="1588" height="755" alt="Screenshot 2025-07-20 213044" src="https://github.com/user-attachments/assets/dbd8e2c7-4214-4068-b046-ba7d0b9f3f0f" />
+
+
 ## 📂 Project Structure
 
 ```
